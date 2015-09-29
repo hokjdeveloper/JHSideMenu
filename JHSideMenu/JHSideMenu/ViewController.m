@@ -16,7 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"hello this is JH side menu");
+    // Do any additional setup after loading t;he view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning {
